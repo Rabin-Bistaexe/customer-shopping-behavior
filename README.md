@@ -34,21 +34,17 @@ The full workflow includes data cleaning in Python, business analysis using Post
 - Power BI
 - Gamma (presentation)
 
+
 ### Dashboard Screenshots
 
-**Main Dashboard** 
-
-<img width="1356" height="742" alt="dashboard" src="https://github.com/user-attachments/assets/a0bc73f6-c3c3-4cec-9ede-8ccd7f3ef7c5" />
-
+**Main Dashboard**  
+![Main Dashboard](preview-images/dashboard.png)
 
 **Revenue by Category**  
-
-<img width="350" height="200" alt="revenue_by_category" src="https://github.com/user-attachments/assets/6443bc34-37b8-4885-a362-6d6491dbdc3b" />
-
+![Revenue by Category](preview-images/revenue_by_category.png)
 
 **Revenue by Age Group**  
-
-<img width="527" height="195" alt="revenue_by_age" src="https://github.com/user-attachments/assets/b798037e-564e-484a-9a40-da3fcc27615d" />
+![Revenue by Age Group](preview-images/revenue_by_age.png)
 
 
 ### How to View
