@@ -34,7 +34,6 @@ The full workflow includes data cleaning in Python, business analysis using Post
 - Power BI
 - Gamma (presentation)
 
-
 ### Dashboard Screenshots
 
 **Main Dashboard**  
